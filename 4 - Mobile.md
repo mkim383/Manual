@@ -1,5 +1,5 @@
 ### Bloomberg Beta
-Bloomberg is a venture capital fund backed by [Bloomberg L.P.](http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu), investing out of a $75M fund.
+Bloomberg is a venture capital fund backed by [Bloomberg L.P.](http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu), investing out of a $75M fund focused on the future of work. We believe that work -- especially knowledge work -- will be the soil in which many of the most exciting new technologies, especially [many](https://textio.com/) [kinds](https://digitalgenius.com/) [of](https://gradescope.com/) [machine](http://www.diffbot.com/) [intelligence](https://www.gridspace.com/), will find their most interesting applications.
 
 
 ### Where we work
