@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bloomberg Beta Test Site</title>
+    <link>http://bloombergbetatest.com/</link>
+    <description>Recent content on Bloomberg Beta Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://bloombergbetatest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://bloombergbetatest.com/1---manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bloombergbetatest.com/1---manual/</guid>
+      <description>Operating Manual Contents  Our investor, Bloomberg L.P. What we believe about the future of work What we look for in a startup The deal terms Our “products,” or, models for how we work with founders How we support our companies Finding us  Our investor, Bloomberg L.P. Bloomberg L.P. is our sole investor.
+We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer &amp;ndash; it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bloombergbetatest.com/2---in-our-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bloombergbetatest.com/2---in-our-portfolio/</guid>
+      <description>Founders + Companies Founders are our customers. In order of our announced participation:
+   Founders Company     Jonah Varon, Axel Hansen Newsle 1   Charlie Robbins Nodejitsu 2   Jon Lee ProsperWorks   Paul Dix, Todd Persen InfluxData   Zach Sims, Ryan Bubinski Codecademy   Satya Patel, Hunter Walk Homebrew   Stephen Purpura Context Relevant   Ron Palmeri, Tomaž Štolfa Layer   Naval Ravikant, Babak Nivi AngelList 3   Anil Dash, Gina Trapani ThinkUp   Sandi MacPherson Quibb   Jason Hirschhorn REDEF   Ryan Petersen Flexport   Fouad ElNaggar, Peter Yared Sapho   Daniela Perdomo goTenna   Anne Wootton, Bailey Smith Pop Up Archive 10   Satyen Sangani Alation   Amit Gupta SenderGen   K.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bloombergbetatest.com/3---criteria-for-investing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bloombergbetatest.com/3---criteria-for-investing/</guid>
+      <description>Criteria for investing What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at the extraordinary.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bloombergbetatest.com/4---mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bloombergbetatest.com/4---mobile/</guid>
+      <description>Bloomberg Beta Bloomberg is a venture capital fund backed by Bloomberg L.P., investing out of a $75M fund focused on the future of work. We believe that work &amp;ndash; especially knowledge work &amp;ndash; will be the soil in which many of the most exciting new technologies, especially many kinds of machine intelligence, will find their most interesting applications.
+Where we work San Francisco — 140 New Montgomery St., 22nd Floor — Map</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bloombergbetatest.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bloombergbetatest.com/readme/</guid>
+      <description>START HERE Why we exist We believe we are seeing profound changes in the way business works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta. Below is a snapshot of basic information on us, and a link to our previously-internal operating manual—with many details on how we work.
+Bloomberg Beta is a venture firm backed by Bloomberg L.</description>
+    </item>
+    
+  </channel>
+</rss>
