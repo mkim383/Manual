@@ -1,8 +1,9 @@
-[build]
 theme = "hyde"
 baseURL = "http://bloombergbetatest.netlify.com/"
 languageCode = "en-us"
 title = "Bloomberg Beta Test Site"
+
+[build]
 publish = "public"
 command = "hugo"
 
